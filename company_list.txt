@@ -15,11 +15,14 @@ Ants
 Appsfactory
 Avanza
 Avaron AB
+Avensia
 Axis
-BJAK
 Bending Spoons
+Bim.com
 Birger AB
+BJAK
 Block Zero
+Boozt
 Camunda
 Canonical
 Cascination
@@ -28,13 +31,16 @@ ClickHouse
 Coder
 Cohere
 Combitech
+Consafe Logistics
 Curamet AB
 DC Thomson
 Deploja AB
 Designity
 Digmi Sweden
 Done
+Duni Group
 Electrolux
+Eletive
 Embark Studios
 Etraveli Group
 Experis
@@ -44,16 +50,17 @@ Fieldly
 Fishbrain
 Fluxon
 Flying Bisons
+Försäkringskassan
 Friday
 Fundamental
-Försäkringskassan
-GOALS
 Gaddr
 Game Boost - Leveling Up Game Production Everywhere
 Gameloft
 Genesis
 Genesys
 GetAccept AB
+GleSYS
+GOALS
 H&M Group
 Hammer & Hanborg Sverige
 Hedvig
@@ -63,58 +70,68 @@ HighLevel
 Hilo by Aktiia
 Huawei Sweden R&D
 Icy Studios
+IKEA
 Immersive
 InPost
+Inriver
 Intelligent Apps Sweden AB
 Intenso Interim Management
 Intetics
 Irusri Group AB
-KAN
 Kaffekassan
 Kaliop
 Kalk
+KAN
 Kapita Investment Group
 Kevel
 Kindana
 Kjell & Company
 Knowit
+knowmad mood
 Kraken
 Kumar Nordic ApS
 Kurppa Hosk
 Kyivstar.Tech
 Lamdax
 LastPass
-LearnWorlds
 Learnpoint
+LearnWorlds
 Ledgy
-MATCHi
-MLabs
+Lime Technologies
 Malmö stad
 Market Partner
+MATCHi
 Mentimeter
 Mero Rekrytering AB
 Mixbook
+MLabs
 Much Better Adventures
+n8n
 NEC Software Solutions
-NMS Research Center Sweden AB
 Neko Health
 Neo4j
 NineTwoThree AI Studio
+NMS Research Center Sweden AB
 Nord Security
 Nordhealth
 Nordic Investin Group
 Nordic Valley
 Novacura
 Nudgd
-OLX
+nyra health
 Oh So
+OLX
 Ommej
+Öresundskraft
 Paradox Interactive
+Paraglide
 Pedago Labs
 Pencil
 Pennylane
 People Can Fly
+PinMeTo
 Pixelmatters
+Position Green
 PryvX
 Qlik
 Quest Consulting Sverige AB
@@ -123,41 +140,51 @@ Reface
 Releaf
 Revam
 Revive
+rNWIST
 Rokin Research
-SITA.dev
-SPLIT Stockholm
-SVH
 Saab
 Sandvik
 Score4more
 Shore
+Sigma Connectivity
+Sinch
 Sing Along Official
+SITA.dev
 SkyCell
 Snowprint Studios
+Softhouse
 Soop System
 Soros Consulting AB
 Specialpedagogiska skolmyndigheten
+Spiideo
+SPLIT Stockholm
 SplitMetrics
+Stratsys
 Studac
 Sumbios AI
+Superlab
 SuperSummary
+SVH
 Sway Sourcing Sweden Aktiebolag
 SwipeJobb AB
 Swirl
 Synthesia
-TOTEME
 Tabby
+Tactel
 TaxiCaller
+Telavox
 Terra
 Tether
 Tieto
 Tiugo Technologies
 TomTom
+TOTEME
 Trafiko
 Trustberry
 Trustyou
 Tyk Technologies
 Ubisoft
+ustwo
 Uvation
 Valis
 Visionera Aktiebolag
@@ -165,11 +192,9 @@ Visslan
 VoiceDiagnostic
 Voize
 Voldex
+Voyado
 Wayflyer
+Web Manuals
 Wellio
 Whippy
 XR Solutions
-knowmad mood
-n8n
-nyra health
-rNWIST

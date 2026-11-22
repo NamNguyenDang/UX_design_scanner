@@ -6,7 +6,7 @@ Name: Ngoc Le. Location: Lund, Skåne, Sweden.
 
 LinkedIn: https://www.linkedin.com/in/ngoc-le-ngo/ . This exact URL was supplied by the user on 2026-11-22 and is also referenced in the original CV. The live profile has not been reviewed in this scan; do not infer additional qualifications from the link.
 
-Target: entry-level/junior UX, UI/UX and interaction/product-design opportunities and internships. Onsite/hybrid roles must be in Skåne. Roles elsewhere must permit fully remote work from Sweden. Broader roles may be screened for comparison, but must not be presented as qualified matches.
+Target: Only internships (including praktik/LIA) and fresher/graduate UX, UI/UX, interaction and digital product-design roles are in scope. Fresher means the employer accepts candidates with no professional UX experience; a junior title alone is insufficient. Exclude roles requiring prior professional UX experience, mid-level, senior, lead and management roles. When requirements are unclear, mark pending verification rather than a match. Onsite/hybrid roles must be in Skåne; elsewhere require explicit fully remote eligibility from Sweden. Keep student/LIA conditions visible.
 
 Languages in original CV: Vietnamese native, English B2, Swedish B1. Current student eligibility, work authorization, availability and acceptance of unpaid work remain unconfirmed.
 

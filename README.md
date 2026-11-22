@@ -1,8 +1,12 @@
 # UX design scanner
 
-Weekly UX job reviews and versioned application documents for Ngoc Le, based in Lund.
+Weekly internship and fresher UX job reviews for Ngoc Le, based in Lund.
 
-## Latest report
+Current scope: internships and fresher roles only. Search company career pages first (Skåne, then remaining companies), and job boards second. [Review the workflow diagram and steps](workflow.md).
+
+Company directory: [200 master entries](company_list.txt), [33 evidenced Skåne employers](company_list_skane.txt), and [career URLs and verification status](companies/registry.csv). These are monitoring lists, not vacancy counts.
+
+## Latest report (earlier search scope)
 
 [PR_1_2026-11-22](reports/PR_1_2026-11-22/README.md) reviews 100 provider-verified advertised roles and five separately employer-checked opportunities. [Download Excel](reports/PR_1_2026-11-22/UX_design_job_scanning_PR_1_2026-11-22.xlsx). [Review PR #1](https://github.com/NamNguyenDang/UX_design_scanner/pull/1).
 
