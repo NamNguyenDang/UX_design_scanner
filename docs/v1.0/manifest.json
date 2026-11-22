@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "archived_on": "2026-11-22",
+  "cv": "Original supplied PDF, unmodified",
+  "portfolio": "Original references only; full export and valid screenshot unavailable",
+  "coverletter": "Original not available",
+  "files": {
+    "CV_extracted.txt": {
+      "sha256": "394ef678e6cd868696afa3b0100244492c9017b2d76aff4ec367c46a193be6a5",
+      "bytes": 5055
+    },
+    "CV_original.pdf": {
+      "sha256": "b456a559c59e35f15645c238800607ac7a0e9e94d31c97889514c07638669ee4",
+      "bytes": 395767
+    },
+    "coverletter.md": {
+      "sha256": "e43d0602c6c764753df2f1e587acb4759637dd12d75f51c5a260c8b639d7e7bf",
+      "bytes": 304
+    },
+    "portfolio.md": {
+      "sha256": "a89b8c67002fa9884021af6bd453a2463fef386f6fe040f70516b5607dae36c6",
+      "bytes": 774
+    }
+  }
+}

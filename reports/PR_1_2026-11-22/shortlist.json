@@ -1,0 +1,127 @@
+[
+  {
+    "id": "gaddr-26",
+    "company": "Gaddr",
+    "role": "UI/UX Designer Intern",
+    "location": "Sweden • fully remote",
+    "pay": "Unpaid; 20h/week, at least 3 months",
+    "deadline": null,
+    "fit": "Moderate",
+    "action": "Confirm unpaid terms and availability; prepare CV and portfolio.",
+    "status": "Not started",
+    "url": "https://jobs.gaddr.com/opportunities/26",
+    "evidence": "Employer advert and sign-in-to-apply route visible; submission not tested.",
+    "posting": "Employer posting date not stated",
+    "profile": "Junior UI/UX designer based in Lund, combining interaction-design studies with graphic-design and engineering experience. Practised user research, Figma prototyping and iterative teamwork during university projects, with a strong foundation in visual communication and stakeholder collaboration.",
+    "bullets": [
+      "Conducted interviews and observations and developed interactive prototypes using Figma and Arduino during Interaction Design studies.",
+      "Collaborated in Agile/Scrum projects through sprint planning, iterative design and design reviews.",
+      "Developed visual concepts and production-ready artwork as a Graphic Designer & Co-founder."
+    ],
+    "gaps": [
+      "Responsive components and states: show a Pomodoro component set with mobile/desktop layouts and empty/error states; current CV does not evidence this depth.",
+      "Testing-to-iteration evidence: document a genuine usability observation and the resulting Pomodoro revision; do not invent participants or outcomes.",
+      "Developer handoff: annotate interaction rules and acceptance criteria for one Pomodoro flow; shipped SaaS work remains unproven."
+    ]
+  },
+  {
+    "id": "learnpoint-spring-2027",
+    "company": "Learnpoint",
+    "role": "UX Designer Internship — spring 2027",
+    "location": "Fully remote • Sweden",
+    "pay": "Not stated; 2–6 months",
+    "deadline": null,
+    "fit": "Moderate, conditional",
+    "action": "Find at least one co-applicant; confirm pay and study requirements.",
+    "status": "Check eligibility",
+    "url": "https://learnpoint.se/jobs/2027/spring/ux-designer-internship.html",
+    "evidence": "Employer explicitly advertises spring intake and application instructions.",
+    "posting": "Employer posting date not stated",
+    "profile": "Junior UX designer with coursework in user-centred research, prototyping and evaluation. Brings experience in collaborative design reviews and communicating complex requirements, and is developing Pomodoro Platform as an ongoing UX portfolio project.",
+    "bullets": [
+      "Applied user-centred methods to research, prototype and evaluate interactive products during Interaction Design studies.",
+      "Conducted interviews and observations, then developed interactive prototypes using Figma and Arduino.",
+      "Worked in Agile/Scrum teams with sprint planning and design reviews."
+    ],
+    "gaps": [
+      "Agentic workflows: the JD expects design-tool and AI-agent proficiency; build a small documented workflow with human review before claiming this skill.",
+      "End-to-end feature research: turn one Pomodoro need into a research question, prototype and evaluated revision, with your contribution explicit.",
+      "Public explanation: practise a short case-study article and presentation that connect findings to design decisions; evidence is not yet included in the CV."
+    ]
+  },
+  {
+    "id": "nordhealth-8632668",
+    "company": "Nordhealth",
+    "role": "UX Intern — AI-powered therapy tools",
+    "location": "Europe • fully remote; Sweden contract to confirm",
+    "pay": "Compensation advertised; amount unstated; 3 months",
+    "deadline": null,
+    "fit": "Moderate, conditional",
+    "action": "Confirm current degree enrolment and Sweden-based internship eligibility.",
+    "status": "Check eligibility",
+    "url": "https://careers.nordhealth.com/jobs/8632668-ux-intern",
+    "evidence": "Employer advert and Apply button visible; form submission not tested.",
+    "posting": "Employer posting date not stated",
+    "profile": "Junior UX designer with interaction-design training and a technical engineering background. Experienced in translating requirements into design solutions, university-level user research and Figma prototyping, with an interest in making complex digital interactions understandable.",
+    "bullets": [
+      "Conducted interviews and observations and evaluated interactive products in Interaction Design coursework.",
+      "Developed interactive prototypes using Figma and Arduino and iterated through team design reviews.",
+      "Translated customer requirements into practical solutions and coordinated feedback across technical disciplines in engineering roles."
+    ],
+    "gaps": [
+      "Human–AI interaction: demonstrate uncertainty, error recovery and user control in a clearly labeled proposed Pomodoro interaction exercise.",
+      "Evaluation evidence: document how usability observations change a prototype; AI-specific testing and trust research are not demonstrated in the CV.",
+      "Accessible information design: show readable data, keyboard focus and clear status messages in one flow; current CV lacks explicit accessibility evidence."
+    ]
+  },
+  {
+    "id": "hemkodat-31750433",
+    "company": "Hemkodat",
+    "role": "Graphic design / interaction-design internship",
+    "location": "Lund • internship",
+    "pay": "Not stated by employer; usually 8–16 weeks",
+    "deadline": null,
+    "fit": "Strong skills fit, conditional",
+    "action": "Confirm student eligibility and current placement; send visual and UX samples when ready.",
+    "status": "Check eligibility",
+    "url": "https://hemkodat.se/jobb/praktik-grafisk-design",
+    "evidence": "Employer role page and apply route visible; current Platsbanken-linked listing also surfaced.",
+    "posting": "Jobbsafari reports 18 Nov 2026; employer date unstated",
+    "profile": "Graphic designer transitioning into UI/UX, with experience developing visual concepts, production-ready artwork and promotional materials. Combines typography and editorial-layout studies with interaction-design training and Figma prototyping.",
+    "bullets": [
+      "Researched customer preferences and developed seasonal concepts from sketches to production-ready artwork as a Graphic Designer & Co-founder.",
+      "Planned launch campaigns, photoshoot concepts, image editing and promotional graphics.",
+      "Studied typography, composition, colour and InDesign layouts, alongside user-centred research and interactive prototyping."
+    ],
+    "gaps": [
+      "Audience-specific rationale: explain how visual choices adapt to children, young people and adult stakeholders; add authentic examples rather than inferred expertise.",
+      "Digital-to-print consistency: show one identity across a web layout and print format, with grids and typography; the CV names tools but does not show samples.",
+      "Motion and interaction evidence: create a small purposeful Pomodoro microinteraction and explain its behavior; animation is a bonus skill, not a confirmed current strength."
+    ]
+  },
+  {
+    "id": "kan-8655686",
+    "company": "KAN",
+    "role": "Autumn 2027 internship — UX team option",
+    "location": "Malmö • select Malmö in application",
+    "pay": "Not stated; minimum 8 weeks",
+    "deadline": "2027-04-16",
+    "fit": "Moderate, conditional",
+    "action": "Confirm ongoing post-secondary education permits placement; select UX team.",
+    "status": "Check eligibility",
+    "url": "https://jobb.kan.se/jobs/8655686-praktikplats-host-2027",
+    "evidence": "Employer autumn intake and application route visible; spring intake closed.",
+    "posting": "Employer posting date not stated",
+    "profile": "Junior UX designer in Lund with recent interaction-design and graphic-design coursework, plus experience in client communication and cross-functional design coordination. Brings a structured, collaborative approach to research, prototyping and design iteration.",
+    "bullets": [
+      "Applied user-centred methods, interviews and observations in university interaction-design projects.",
+      "Collaborated in Agile/Scrum projects, including sprint planning and design reviews.",
+      "Led a small engineering project team and coordinated requirements and stakeholder feedback across disciplines."
+    ],
+    "gaps": [
+      "Agency-ready case study: present one concise Pomodoro problem-to-iteration narrative with your own role and evidence clearly separated.",
+      "Design critique communication: practise explaining a decision, trade-off and revision in clear English; retain Swedish B1 accurately.",
+      "Visual delivery evidence: show coherent typography, layouts and interactive states in the case study; client-ready digital UX delivery remains unproven."
+    ]
+  }
+]
