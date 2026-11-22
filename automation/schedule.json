@@ -1,0 +1,10 @@
+{
+  "automation_id": "6abed6d3934c81909dd79e6718a167b6",
+  "title": "Weekly UX scan — PR_NO_date",
+  "timezone": "Europe/Stockholm",
+  "schedule": "Every Friday at 09:00; no end date",
+  "next_run_confirmed_at_update": "2026-11-27T09:00:00+01:00",
+  "output_pattern": "PR_<number>_YYYY-MM-DD",
+  "runner": "ChatGPT scheduled task",
+  "github_actions_runner": false
+}
