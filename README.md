@@ -21,6 +21,8 @@ The 100-role review is a bounded Sweden/EMEA-remote discovery set, not 100 suita
 | [CHANGELOG.md](CHANGELOG.md) | Document version history |
 | [company_list.txt](company_list.txt) | Cumulative names, not current vacancies |
 
+Keep exactly two document directories: `docs/v1.0/` preserves originals unchanged; `docs/v1.1/` contains the current working documents and is updated in place. Git commits and PRs retain revision history. Do not create additional document-version directories unless the user requests them. Dated scan reports continue to use `reports/PR_<number>_YYYY-MM-DD/`.
+
 Original cover letter and full portfolio export were unavailable. Their absence is documented rather than reconstructed as originals. LinkedIn: https://www.linkedin.com/in/ngoc-le-ngo/ . Live profile content was not reviewed in this run.
 
 ## Schedule and PR convention

@@ -18,10 +18,14 @@ Use the original PDF when available. Never turn six years of engineering into si
 
 ## Delivery
 
-Keep all 100 screened records in a compact audit table and only employer-checked relevant opportunities in Open jobs. Do not imply 100 suitable jobs exist in Skåne. Preserve application statuses by stable ID. Archive originals once under v1.0 with checksums; unavailable cover letters and full portfolio exports must stay explicitly missing. Use later versions for generated drafts. Git commits and PR numbers provide the change history. A GitHub repository alone does not run a scheduled scan.
+Keep all 100 screened records in a compact audit table and only employer-checked relevant opportunities in Open jobs. Do not imply 100 suitable jobs exist in Skåne. Preserve application statuses by stable ID. Archive originals once under v1.0 with checksums; unavailable cover letters and full portfolio exports must stay explicitly missing. Update generated drafts in docs/v1.1/ in place; do not create additional version folders unless requested. Git commits and PR numbers provide the change history. A GitHub repository alone does not run a scheduled scan.
 
 ## Next run
 
 Read requirement.md and profile.md. Recheck the shortlist and search for newer roles. Update the report and lessons using observed results. If a tool or scheduled run fails, report the exact stage and keep the last successful report intact.
 
 Validate file signatures before archiving: the historical PNG filename actually contained an HTML error page. Exclude it and record the missing screenshot. Exclude the manifest itself from its hash inventory.
+
+## Document-folder preference — 2026-11-22
+
+Keep exactly two document directories: `docs/v1.0/` preserves originals unchanged; `docs/v1.1/` contains the current working documents and is updated in place. Git commits and PRs retain revision history. Do not create additional document-version directories unless the user requests them. Dated scan reports continue to use `reports/PR_<number>_YYYY-MM-DD/`.
